@@ -1,0 +1,19 @@
+.links {
+    display: flex;
+    list-style-type: none;
+}
+
+.links a {
+    text-decoration: none;
+    color: blue;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: blue;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
